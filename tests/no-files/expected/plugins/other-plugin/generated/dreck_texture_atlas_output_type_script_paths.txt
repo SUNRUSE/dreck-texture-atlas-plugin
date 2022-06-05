@@ -1,0 +1,1 @@
+./plugins/texture-atlas/generated/index.ts

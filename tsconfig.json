@@ -1,0 +1,16 @@
+{
+  "extends": "./plugins/type-script/bundled/tsconfig.json",
+  "compilerOptions": {
+    "outFile": "./index.js",
+    "rootDir": "",
+    "types": [
+      "jasmine",
+      "node"
+    ],
+    "moduleResolution": "node"
+  },
+  "include": [
+    "./generated/index.ts",
+    "./index.ts"
+  ]
+}

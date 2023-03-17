@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "free-tex-packer-core": "0.3.4",
-    "pngjs": "6.0.0"
+    "pngjs": "7.0.0"
   },
   "scripts": {
     "buildTypeScript": "tsc --project ./tsconfig.json",
